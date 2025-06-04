@@ -4,7 +4,8 @@
   "description": "All the handsoon code for login, registration and sesssion mangement of user using MERN.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/bhanubhashkar/ProjectAuthentication/issues"
   },
-  "homepage": "https://github.com/bhanubhashkar/ProjectAuthentication#readme"
+  "homepage": "https://github.com/bhanubhashkar/ProjectAuthentication#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "nodemon": "^3.1.10"
+  }
 }
