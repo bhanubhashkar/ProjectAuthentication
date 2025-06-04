@@ -3,7 +3,6 @@
 [Checkout my Profile](https://github.com/bhanubhashkar)
 
 
-```text
 
 ## Project Steps
 1. Create Project Folder
@@ -22,11 +21,20 @@
 14. Install express, mongoose, cors, nodemon 
 15. Run command - sudo npm install express mongoose cors nodemon 
 16. In package.json add in scripts for nodemom config - "start": "nodemon index.js"
+17. Delete unwanted css and images files
+18. Start client server by below command
+19. Run command - npm start
+20. Navigate to App.jsx file
+21. Delete unneccesary code from return.
+22. Return Hello word and validate from browser.
+23. import bootstrap in App.jsx by below line
+24. import 'bootstrap/dist/css/bootstrap.min.css'
+25. 
 
-```
 
 
-## Console Method
-```javascript
+
+
+```text
 
 ```
