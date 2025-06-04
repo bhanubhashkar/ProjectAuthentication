@@ -2,6 +2,9 @@
 # Autentication Login, Registration & Session Management
 [Checkout my Profile](https://github.com/bhanubhashkar)
 
+
+```text
+
 ## Project Steps
 1. Create Project Folder
 2. Install vite by below command
@@ -20,13 +23,6 @@
 15. Run command - sudo npm install express mongoose cors nodemon 
 16. In package.json add in scripts for nodemom config - "start": "nodemon index.js"
 
-```text
-// Single line comment
-
-fghjkl
-/*
-Multi line comment
-*/
 ```
 
 
