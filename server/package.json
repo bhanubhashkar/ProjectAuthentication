@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "All the handsoon code for login, registration and sesssion mangement of user using MERN.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanubhashkar/ProjectAuthentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhanubhashkar/ProjectAuthentication/issues"
+  },
+  "homepage": "https://github.com/bhanubhashkar/ProjectAuthentication#readme"
+}
